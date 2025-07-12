@@ -87,7 +87,7 @@ Run the notebook to see predicted emotion
 
 ## Final Results
 
-- **Test Accuracy Achieved**: **96.88%** on the test set (576 samples).
+- **Test Accuracy Achieved**: **96.53%** on the test set.
 - **Per-Class Performance**:
   - High accuracy for most emotions.
   - Emotions like `calm`, `happy`, and `surprised` achieved near-perfect scores.
