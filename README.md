@@ -49,7 +49,7 @@ Defined in `train_emotion_model.ipynb` as `EmotionCNN`:
   - FC2: Linear(128 → 8) → Final emotion class prediction
 - **Loss Function**: CrossEntropyLoss
 - **Optimizer**: Adam (lr=0.0005)
-- **Accuracy Achieved**: ~98% training accuracy, ~96.9% test accuracy
+- **Accuracy Achieved**: ~98% training accuracy, ~96.5% test accuracy
 
 ---
 
